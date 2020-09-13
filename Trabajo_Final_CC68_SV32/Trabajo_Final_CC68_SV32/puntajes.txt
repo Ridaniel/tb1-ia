@@ -1,0 +1,4 @@
+daniel,23
+joaqin,10
+daniel,3
+ 

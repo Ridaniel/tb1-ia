@@ -1,0 +1,17 @@
+﻿  CCuarto.cpp
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(11,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(19,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(20,63): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(39,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(47,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(68,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(79,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(87,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(101,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(125,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Algoritmo.hpp(126,23): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CCuarto.cpp(26,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CCuarto.cpp(125,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CCuarto.cpp(153,19): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CCuarto.cpp(168,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Trabajo_Final_CC68_SV32.vcxproj -> C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Debug\Trabajo_Final_CC68_SV32.exe

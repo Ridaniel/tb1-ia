@@ -1,0 +1,89 @@
+﻿  CControlador.cpp
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(90,84): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(90,51): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(91,89): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(91,57): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(125,26): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(131,21): warning C4244: 'inicializando': conversión de 'float' a '__int64'; posible pérdida de datos
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(271,68): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(271,44): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CControlador.cpp(92,10): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+  CMapa.cpp
+  CJuego.cpp
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CJuego.cpp(104,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CJuego.cpp(229,80): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CJuego.cpp(229,52): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CJuego.cpp(411,6): warning C4101: 'cantItems': variable local sin referencia
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CJuego.cpp(413,6): warning C4101: 'tempN': variable local sin referencia
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\CJuego.cpp(412,6): warning C4101: 'cantConexiones': variable local sin referencia
+  Main.cpp
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(90,84): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(90,51): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(91,89): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(91,57): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(125,26): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(131,21): warning C4244: 'inicializando': conversión de 'float' a '__int64'; posible pérdida de datos
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(271,68): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Menu.hpp(271,44): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Trabajo_Final_CC68_SV32\Main.cpp(6,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 539 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Trabajo_Final_CC68_SV32.vcxproj -> C:\Users\Asus\Desktop\CC68-AlgoritmosEstructuras-Final-master\Trabajo_Final_CC68_SV32\Release\Trabajo_Final_CC68_SV32.exe

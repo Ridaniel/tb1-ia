@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CBeacon.cpp" />
+    <ClCompile Include="CControlador.cpp" />
+    <ClCompile Include="CCuarto.cpp" />
+    <ClCompile Include="CInventario.cpp" />
+    <ClCompile Include="CItem.cpp" />
+    <ClCompile Include="CMapa.cpp" />
+    <ClCompile Include="CJuego.cpp" />
+    <ClCompile Include="CObjeto.cpp" />
+    <ClCompile Include="CPersonaje.cpp" />
+    <ClCompile Include="CProtagonista.cpp" />
+    <ClCompile Include="CTextoCambiante.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="CHud.cpp" />
+    <ClCompile Include="CEnemigo.cpp" />
+    <ClCompile Include="CPuerta.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CArbolAVL.hpp" />
+    <ClInclude Include="CBeacon.hpp" />
+    <ClInclude Include="CCuarto.hpp" />
+    <ClInclude Include="CInventario.hpp" />
+    <ClInclude Include="CItem.hpp" />
+    <ClInclude Include="CJuego.hpp" />
+    <ClInclude Include="CListaCircular.hpp" />
+    <ClInclude Include="CMapa.hpp" />
+    <ClInclude Include="CNodo.hpp" />
+    <ClInclude Include="CObjeto.hpp" />
+    <ClInclude Include="CControlador.hpp" />
+    <ClInclude Include="CPersonaje.hpp" />
+    <ClInclude Include="CProtagonista.hpp" />
+    <ClInclude Include="CTextoCambiante.h" />
+    <ClInclude Include="Menu.hpp" />
+    <ClInclude Include="CListaAdyacencia.hpp" />
+    <ClInclude Include="CHud.h" />
+    <ClInclude Include="Par.hpp" />
+    <ClInclude Include="CListaDoble.hpp" />
+    <ClInclude Include="CEnemigo.hpp" />
+    <ClInclude Include="CPuerta.hpp" />
+    <ClInclude Include="Algoritmo.hpp" />
+  </ItemGroup>
+</Project>
